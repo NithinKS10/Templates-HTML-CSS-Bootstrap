@@ -1,0 +1,15 @@
+#officer{
+    width: 100%;
+    height: 100%;
+    opacity: 40%;
+}
+header{
+    margin-top: -950px;
+    margin-left: 150px;
+    position: relative;
+}
+#lady{
+    width: 60%;
+    height: 100%;
+    padding-top: 10%;
+}
